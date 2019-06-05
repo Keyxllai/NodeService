@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Keyxllai/NodeService/issues"
   },
-  "homepage": "https://github.com/Keyxllai/NodeService#readme"
+  "homepage": "https://github.com/Keyxllai/NodeService#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
